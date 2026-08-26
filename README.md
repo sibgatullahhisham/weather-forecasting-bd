@@ -1,7 +1,5 @@
 # weather-forecasting-bd
-Title: "Long-Term Statistical Analysis and Comparative Multi-Output Weather Forecasting for Bangladesh".Tools: Python, Machine Learning (XGBoost, Bi-LSTM, SARIMA).
-# 📌 [Project Title: e.g., Healthcare Facility & Data Analysis in Pabna]
-
+# 📌
 # Long-Term Statistical Analysis and Comparative Multi-Output Weather Forecasting for Bangladesh Using Station-Wise Meteorological Data
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
