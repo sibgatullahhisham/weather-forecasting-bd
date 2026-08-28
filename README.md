@@ -145,19 +145,3 @@ Actual: Rain         3,016 (26.4%)           8,394 (73.6%)
 
 
 
-### Station Network Coverage
-![Station Coverage](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/station_coverage.png)
-
-### Climatology & Seasonality
-![Monthly Climatology](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/monthly_climatology_lines.png)
-![Seasonal Trends](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/seasonal_trends_all_variables.png)
-
-### Model Performance Comparison
-![RMSE Comparison](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/Figure_5_2_RMSE_pooled.png)
-![Best Model by Target](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/Figure_5_10_best_model_by_target.png)
-
-### Rainfall Occurrence Classification
-![Confusion Matrix](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/Figure_5_5_confusion_matrix_publish.png)
-
-### Feature Importance
-![Feature Importance](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/Figure_5_7_rf_feature_importance_publish.png)
