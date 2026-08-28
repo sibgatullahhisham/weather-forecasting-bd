@@ -145,33 +145,19 @@ Actual: Rain         3,016 (26.4%)           8,394 (73.6%)
 
 
 
-### 📡 Station Network Coverage
-<p align="center">
-  <img src="./station_coverage.png" alt="Station Coverage" width="800"/>
-</p>
+### Station Network Coverage
+![Station Coverage](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/station_coverage.png)
 
-### 🌦️ Climatology & Seasonality
-<p align="center">
-  <img src="./monthly_climatology_lines.png" alt="Monthly Climatology" width="800"/>
-</p>
-<p align="center">
-  <img src="./seasonal_trends_all_variables.png" alt="Seasonal Trends" width="800"/>
-</p>
+### Climatology & Seasonality
+![Monthly Climatology](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/monthly_climatology_lines.png)
+![Seasonal Trends](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/seasonal_trends_all_variables.png)
 
-### 📊 Model Performance Comparison
-<p align="center">
-  <img src="./Figure_5_2_RMSE_pooled.png" alt="RMSE Comparison" width="800"/>
-</p>
-<p align="center">
-  <img src="./Figure_5_10_best_model_by_target.png" alt="Best Model by Target" width="700"/>
-</p>
+### Model Performance Comparison
+![RMSE Comparison](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/Figure_5_2_RMSE_pooled.png)
+![Best Model by Target](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/Figure_5_10_best_model_by_target.png)
 
-### 🌧️ Rainfall Occurrence Classification
-<p align="center">
-  <img src="./Figure_5_5_confusion_matrix_publish.png" alt="Confusion Matrix" width="600"/>
-</p>
+### Rainfall Occurrence Classification
+![Confusion Matrix](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/Figure_5_5_confusion_matrix_publish.png)
 
-### 🔍 Feature Importance
-<p align="center">
-  <img src="./Figure_5_7_rf_feature_importance_publish.png" alt="Feature Importance" width="800"/>
-</p>
+### Feature Importance
+![Feature Importance](https://raw.githubusercontent.com/sibgatullahhisham/weather-forecasting-bd/main/Figure_5_7_rf_feature_importance_publish.png)
