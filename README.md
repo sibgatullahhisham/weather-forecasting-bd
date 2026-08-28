@@ -142,3 +142,22 @@ Recognizing rainfall as a two-stage process, event occurrence ($R_{t+1} > 0$ mm)
                   Predicted: No Rain       Predicted: Rain
 Actual: No Rain     24,359 (90.6%)           2,521  (9.4%)
 Actual: Rain         3,016 (26.4%)           8,394 (73.6%)
+
+
+
+### Station Network Coverage
+![Station Coverage](station_coverage.png)
+
+### Climatology & Seasonality
+![Monthly Climatology](monthly_climatology_lines.png)
+![Seasonal Trends](seasonal_trends_all_variables.png)
+
+### Model Performance Comparison
+![RMSE Comparison](Figure_5_2_RMSE_pooled.png)
+![Best Model by Target](Figure_5_10_best_model_by_target.png)
+
+### Rainfall Occurrence Classification
+![Confusion Matrix](Figure_5_5_confusion_matrix_publish.png)
+
+### Feature Importance
+![Feature Importance](Figure_5_7_rf_feature_importance_publish.png)
